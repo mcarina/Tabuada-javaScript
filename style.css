@@ -1,0 +1,40 @@
+*{
+
+}
+
+body{
+ font: normal 15pt Arial;
+}
+
+header{
+  color: rgba(0, 0, 0, 0.879);
+  text-align: center;
+}
+
+section{
+  background:#fafafa ;
+  padding: 15px;
+  width: 450px ;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.404);
+}
+
+div{
+  text-align: center;
+}
+
+#tabu{
+  font: 13pt italic;
+}
+
+img{
+  border-radius: 30px;
+  padding: 20px;
+}
+
+footer{
+  color:  #000000;
+  text-align: center;
+  padding: 30px;
+  font-style: italic;
+}
